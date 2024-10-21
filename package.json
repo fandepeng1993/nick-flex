@@ -1,0 +1,26 @@
+{
+  "name": "nick-flex",
+  "version": "1.0.5",
+  "description": "NickFlex--简单易用的移动布局适配方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuichuanteng/NickFlex.git"
+  },
+  "keywords": [
+    "flex",
+    "nick-flex",
+    "flexiblejs",
+    "h5",
+    "app"
+  ],
+  "author": "cuichuanteng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuichuanteng/NickFlex/issues"
+  },
+  "homepage": "https://github.com/cuichuanteng/NickFlex#readme"
+}
